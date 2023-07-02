@@ -1,0 +1,3 @@
+D:/proj/Uninter/GameSamplesOpenGL/Sample2/out/build/x64-debug/CMakeFiles/Sample2.dir
+D:/proj/Uninter/GameSamplesOpenGL/Sample2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/proj/Uninter/GameSamplesOpenGL/Sample2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
